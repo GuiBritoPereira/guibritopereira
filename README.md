@@ -39,6 +39,7 @@
 
 🎓 **Formação Acadêmica:**
 - 📚 **Graduando em Ciências da Computação** - Universidade Paulista (UNIP), São Paulo
+- 📚**Cursando desenvolvimento Fullstack** - Comunidade DoDev, São Paulo, SP
 
 💼 **Habilidades:**
 - 💻 Domínio completo do pacote Microsoft Office (Excel, Word, PowerPoint)
@@ -55,7 +56,7 @@
 - 🎓 **Curso de Processamento de Texto** - SETA, São Paulo, SP
 - 🎓 **Curso de Design Digital** - SETA, São Paulo, SP
 - 🎓 **Curso Básico de Administração** - SETA, São Paulo, SP
-- 🎓 **Curso de Fullstack** - Comunidade DoDev, São Paulo, SP
+  
 
 ✨ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente. Fique à vontade para entrar em contato comigo!
 
