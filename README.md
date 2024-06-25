@@ -35,13 +35,42 @@
 
 ###
 
-<h3 align="left">-Estudante de Ciência da Computação 👨🏻‍🎓</h3>
 
-###
 
-<h3 align="left">- Faço parte da comunidade DoDev, estou no mundo fullstack dominando tanto o front-end quanto o back-end  🎓</h3>
+🎓 **Formação Acadêmica:**
+- 📚 **Graduando em Ciências da Computação** - Universidade Paulista (UNIP), São Paulo
 
-###
+💼 **Habilidades:**
+- 💻 Domínio completo do pacote Microsoft Office (Excel, Word, PowerPoint)
+- 💻 Experiência em programação: JavaScript, HTML, CSS, Node.js
+- 🧠 Boa capacidade de resolução de problemas
+- 💪 Forte ética de trabalho e disposição para aprender
+
+🌐 **Idiomas:**
+- 🇬🇧 Inglês - intermediário
+
+📜 **Certificações e Cursos:**
+- 🎓 **Curso Profissionalizante em Excel Pacote Office Completo** - SETA, São Paulo, SP
+- 🎓 **Curso de Informática** - SETA, São Paulo, SP
+- 🎓 **Curso de Processamento de Texto** - SETA, São Paulo, SP
+- 🎓 **Curso de Design Digital** - SETA, São Paulo, SP
+- 🎓 **Curso Básico de Administração** - SETA, São Paulo, SP
+- 🎓 **Curso de Fullstack** - Comunidade DoDev, São Paulo, SP
+
+✨ Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente. Fique à vontade para entrar em contato comigo!
+
+---
+
+📧 **Contato:**
+- [pereiraguilherme2208@gmail.com]
+
+📱 **Redes Sociais:**
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/guii_brito12)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)
+
+---
+
+Obrigado por visitar meu perfil! 🚀
 
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
